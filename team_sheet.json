@@ -1,0 +1,316 @@
+{
+    "rencontre": {
+        "numero": "2",
+        "date": "15/09/24",
+        "heure": "13:15",
+        "lieu": "TOULON",
+        "arbitres": {
+            "1er_arbitre": "LUCQ G",
+            "2e_arbitre": "SAID BACAR",
+            "3e_arbitre": null
+        }
+    },
+    "equipes": {
+        "locaux": {
+            "nom": "IE - CTC LITTORAL VAR BASKET - LA SEYNE BASKET -1",
+            "joueuses": [
+                {
+                    "numero": 4,
+                    "nom": "DIOP",
+                    "prenom": "Mbene",
+                    "tps_de_jeu": "16:21",
+                    "pts_marques": 4,
+                    "tirs_reussis": 2,
+                    "pts_3": 0,
+                    "pts_2_int": 2,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 0,
+                    "fautes": 4
+                },
+                {
+                    "numero": 5,
+                    "nom": "TLEMCANI",
+                    "prenom": "Orane",
+                    "tps_de_jeu": "21:35",
+                    "pts_marques": 19,
+                    "tirs_reussis": 8,
+                    "pts_3": 0,
+                    "pts_2_int": 8,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 3,
+                    "fautes": 3
+                },
+                {
+                    "numero": 6,
+                    "nom": "LACHEVRE",
+                    "prenom": "Lola",
+                    "tps_de_jeu": "13:16",
+                    "pts_marques": 6,
+                    "tirs_reussis": 2,
+                    "pts_3": 0,
+                    "pts_2_int": 2,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 0,
+                    "fautes": 4
+                },
+                {
+                    "numero": 7,
+                    "nom": "SLUGA",
+                    "prenom": "Eloise",
+                    "tps_de_jeu": "12:07",
+                    "pts_marques": 3,
+                    "tirs_reussis": 1,
+                    "pts_3": 0,
+                    "pts_2_int": 0,
+                    "pts_2_ext": 1,
+                    "lf_reussis": 1,
+                    "fautes": 1
+                },
+                {
+                    "numero": 8,
+                    "nom": "COUDRAY",
+                    "prenom": "Solenn",
+                    "tps_de_jeu": "28:11",
+                    "pts_marques": 16,
+                    "tirs_reussis": 7,
+                    "pts_3": 0,
+                    "pts_2_int": 7,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 2,
+                    "fautes": 3
+                },
+                {
+                    "numero": 9,
+                    "nom": "AUGONNET",
+                    "prenom": "Estelle",
+                    "tps_de_jeu": "10:58",
+                    "pts_marques": 0,
+                    "tirs_reussis": 0,
+                    "pts_3": 0,
+                    "pts_2_int": 0,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 0,
+                    "fautes": 1
+                },
+                {
+                    "numero": 10,
+                    "nom": "MARTINS",
+                    "prenom": "Line",
+                    "tps_de_jeu": "04:53",
+                    "pts_marques": 2,
+                    "tirs_reussis": 1,
+                    "pts_3": 0,
+                    "pts_2_int": 1,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 0,
+                    "fautes": 2
+                },
+                {
+                    "numero": 11,
+                    "nom": "BIDJA",
+                    "prenom": "Amira",
+                    "tps_de_jeu": "08:05",
+                    "pts_marques": 0,
+                    "tirs_reussis": 0,
+                    "pts_3": 0,
+                    "pts_2_int": 0,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 0,
+                    "fautes": 3
+                },
+                {
+                    "numero": 12,
+                    "nom": "DUFRANCATEL",
+                    "prenom": "Aude",
+                    "tps_de_jeu": "23:23",
+                    "pts_marques": 4,
+                    "tirs_reussis": 2,
+                    "pts_3": 0,
+                    "pts_2_int": 0,
+                    "pts_2_ext": 1,
+                    "lf_reussis": 2,
+                    "fautes": 1
+                },
+                {
+                    "numero": 13,
+                    "nom": "RAGGIRI",
+                    "prenom": "Estelle",
+                    "tps_de_jeu": "16:42",
+                    "pts_marques": 2,
+                    "tirs_reussis": 1,
+                    "pts_3": 0,
+                    "pts_2_int": 0,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 0,
+                    "fautes": 0
+                },
+                {
+                    "numero": 14,
+                    "nom": "REYNES",
+                    "prenom": "Alma",
+                    "tps_de_jeu": "08:31",
+                    "pts_marques": 0,
+                    "tirs_reussis": 0,
+                    "pts_3": 0,
+                    "pts_2_int": 0,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 0,
+                    "fautes": 0
+                },
+                {
+                    "numero": 15,
+                    "nom": "DIATTA",
+                    "prenom": "Marie Zaynab",
+                    "tps_de_jeu": "35:58",
+                    "pts_marques": 18,
+                    "tirs_reussis": 4,
+                    "pts_3": 0,
+                    "pts_2_int": 3,
+                    "pts_2_ext": 1,
+                    "lf_reussis": 10,
+                    "fautes": 3
+                }
+            ],
+            "totals": {
+                "temps_jeu": "200:00",
+                "points": 74,
+                "tirs_reussis": 27,
+                "pts_3": 0,
+                "pts_2": 26,
+                "lf_reussis": 20,
+                "fautes": 25
+            }
+        },
+        "visiteurs": {
+            "nom": "IE - ST GELY BASKETBALL",
+            "joueuses": [
+                {
+                    "numero": 5,
+                    "nom": "FLEREAU",
+                    "prenom": "Thais",
+                    "tps_de_jeu": "27:24",
+                    "pts_marques": 18,
+                    "tirs_reussis": 8,
+                    "pts_3": 0,
+                    "pts_2_int": 7,
+                    "pts_2_ext": 1,
+                    "lf_reussis": 2,
+                    "fautes": 4
+                },
+                {
+                    "numero": 6,
+                    "nom": "FONTANELL",
+                    "prenom": "Nirina",
+                    "tps_de_jeu": "25:55",
+                    "pts_marques": 18,
+                    "tirs_reussis": 7,
+                    "pts_3": 0,
+                    "pts_2_int": 4,
+                    "pts_2_ext": 3,
+                    "lf_reussis": 4,
+                    "fautes": 3
+                },
+                {
+                    "numero": 7,
+                    "nom": "CERLES",
+                    "prenom": "Leslie",
+                    "tps_de_jeu": "20:58",
+                    "pts_marques": 5,
+                    "tirs_reussis": 2,
+                    "pts_3": 0,
+                    "pts_2_int": 2,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 1,
+                    "fautes": 0
+                },
+                {
+                    "numero": 8,
+                    "nom": "BURDET",
+                    "prenom": "Lou-Anne",
+                    "tps_de_jeu": "17:36",
+                    "pts_marques": 2,
+                    "tirs_reussis": 1,
+                    "pts_3": 0,
+                    "pts_2_int": 1,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 0,
+                    "fautes": 5
+                },
+                {
+                    "numero": 9,
+                    "nom": "DIAKHITE",
+                    "prenom": "Lalia",
+                    "tps_de_jeu": "28:40",
+                    "pts_marques": 11,
+                    "tirs_reussis": 4,
+                    "pts_3": 0,
+                    "pts_2_int": 4,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 3,
+                    "fautes": 4
+                },
+                {
+                    "numero": 10,
+                    "nom": "JEAN-LOUIS",
+                    "prenom": "Maé",
+                    "tps_de_jeu": "29:46",
+                    "pts_marques": 10,
+                    "tirs_reussis": 4,
+                    "pts_3": 2,
+                    "pts_2_int": 1,
+                    "pts_2_ext": 1,
+                    "lf_reussis": 1,
+                    "fautes": 4
+                },
+                {
+                    "numero": 11,
+                    "nom": "ZOUGGAR",
+                    "prenom": "Jade",
+                    "tps_de_jeu": "20:38",
+                    "pts_marques": 2,
+                    "tirs_reussis": 1,
+                    "pts_3": 0,
+                    "pts_2_int": 1,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 0,
+                    "fautes": 2
+                },
+                {
+                    "numero": 13,
+                    "nom": "QUINTANA",
+                    "prenom": "Victoria",
+                    "tps_de_jeu": "14:45",
+                    "pts_marques": 3,
+                    "tirs_reussis": 1,
+                    "pts_3": 1,
+                    "pts_2_int": 0,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 0,
+                    "fautes": 2
+                },
+                {
+                    "numero": 14,
+                    "nom": "KOTTO DOUMBEY-AGRECH",
+                    "prenom": "Warrys",
+                    "tps_de_jeu": "14:18",
+                    "pts_marques": 0,
+                    "tirs_reussis": 0,
+                    "pts_3": 0,
+                    "pts_2_int": 0,
+                    "pts_2_ext": 0,
+                    "lf_reussis": 0,
+                    "fautes": 3
+                }
+            ],
+            "totals": {
+                "temps_jeu": "200:00",
+                "points": 69,
+                "tirs_reussis": 28,
+                "pts_3": 3,
+                "pts_2": 20,
+                "lf_reussis": 10,
+                "fautes": 27
+            }
+        }
+    }
+}
