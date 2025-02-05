@@ -1,0 +1,100 @@
+{
+  "joueurs": [
+    {
+      "numero": 4,
+      "nom": "|DIOP, Mbene",
+      "5_de_depart": false,
+      "tps_jeu": "16:21",
+      "nb_pts_marques": 4,
+      "nb_tirs_reussis": 2,
+      "3_pts_reussis": 0,
+      "2_int_reussis": 2,
+      "2_ext_reussis": 0,
+      "lf_reussis": 0,
+      "fautes_com": 4
+    },
+    {
+      "numero": 5,
+      "nom": "|TLEMCANI, Orane",
+      "5_de_depart": false,
+      "tps_jeu": "[23s",
+      "nb_pts_marques": 0,
+      "nb_tirs_reussis": 8,
+      "3_pts_reussis": 0,
+      "2_int_reussis": 8,
+      "2_ext_reussis": 0,
+      "lf_reussis": 3,
+      "fautes_com": 3
+    },
+    {
+      "numero": 6,
+      "nom": "[LACHEVRE, Lola",
+      "5_de_depart": false,
+      "tps_jeu": "|",
+      "nb_pts_marques": 16,
+      "nb_tirs_reussis": 2,
+      "3_pts_reussis": 0,
+      "2_int_reussis": 2,
+      "2_ext_reussis": 0,
+      "lf_reussis": 2,
+      "fautes_com": 4
+    },
+    {
+      "numero": 8,
+      "nom": "_ |COUDRAY,",
+      "5_de_depart": false,
+      "tps_jeu": "28:1",
+      "nb_pts_marques": 16,
+      "nb_tirs_reussis": 7,
+      "3_pts_reussis": 0,
+      "2_int_reussis": 7,
+      "2_ext_reussis": 0,
+      "lf_reussis": 2,
+      "fautes_com": 3
+    },
+    {
+      "numero": 10,
+      "nom": "_[MARTINS, Line",
+      "5_de_depart": false,
+      "tps_jeu": "|",
+      "nb_pts_marques": 2,
+      "nb_tirs_reussis": 1,
+      "3_pts_reussis": 0,
+      "2_int_reussis": 1,
+      "2_ext_reussis": 0,
+      "lf_reussis": 0,
+      "fautes_com": 2
+    },
+    {
+      "numero": 1,
+      "nom": "[BIDJA, Amira",
+      "5_de_depart": false,
+      "tps_jeu": "|",
+      "nb_pts_marques": 0,
+      "nb_tirs_reussis": 0,
+      "3_pts_reussis": 0,
+      "2_int_reussis": 0,
+      "2_ext_reussis": 0,
+      "lf_reussis": 0,
+      "fautes_com": 3
+    },
+    {
+      "numero": 15,
+      "nom": "[DIATTA, Marie",
+      "5_de_depart": false,
+      "tps_jeu": "x",
+      "nb_pts_marques": 0,
+      "nb_tirs_reussis": 0,
+      "3_pts_reussis": 18,
+      "2_int_reussis": 0,
+      "2_ext_reussis": 1,
+      "lf_reussis": 10,
+      "fautes_com": 3
+    }
+  ],
+  "totaux": {
+    "equipe": {},
+    "banc": {},
+    "5_de_depart": {}
+  }
+}
